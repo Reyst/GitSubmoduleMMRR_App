@@ -4,3 +4,12 @@
 [submodule "GitsubmoduleMMRR_Repository"]
 	path = GitsubmoduleMMRR_Repository
 	url = https://github.com/Reyst/GitsubmoduleMMRR_Repository.git
+[submodule "GitsubmoduleMMRR_RepoCore"]
+	path = GitsubmoduleMMRR_RepoCore
+	url = https://github.com/Reyst/GitsubmoduleMMRR_RepoCore.git
+[submodule "GitsubmoduleMMRR_RoomDS"]
+	path = GitsubmoduleMMRR_RoomDS
+	url = https://github.com/Reyst/GitsubmoduleMMRR_RoomDS.git
+[submodule "GitsubmoduleMMRR_RetrofitDS"]
+	path = GitsubmoduleMMRR_RetrofitDS
+	url = https://github.com/Reyst/GitsubmoduleMMRR_RetrofitDS.git
